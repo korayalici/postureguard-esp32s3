@@ -1,6 +1,7 @@
 .venv/
 __pycache__/
 .pio/
+ml/artifacts/
 .vscode/
 data/raw/
 *.csv
