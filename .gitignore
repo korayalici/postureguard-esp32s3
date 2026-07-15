@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pio/
+.vscode/
+data/raw/
+*.csv
+!data/sample/
+!data/sample/**
+*.bin
+*.elf
+.DS_Store
+Thumbs.db
+Desktop.ini
